@@ -1,4 +1,4 @@
-package AssignmentSolutionByTrainers;
+package Assignment;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -7,7 +7,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import UtilityClasses.BrowserFactory;
 
-public class Assignment4 {
+public class Assignment2 {
 	public static void main(String[] args) {
 		WebDriver driver = BrowserFactory.LaunchBrowser("chrome");
 		driver.get("http://www.itgeared.com/demo/1506-ajax-loading.html");

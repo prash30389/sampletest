@@ -1,6 +1,6 @@
 package stringManipulations;
 
-public class abc {
+public class countCharInString {
 	
 	public static void main(String[] args) {
 		String input = "Prashant";

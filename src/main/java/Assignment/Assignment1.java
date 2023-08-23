@@ -1,4 +1,4 @@
-package AssignmentSolutionByTrainers;
+package Assignment;
 
 import java.util.concurrent.TimeUnit;
 
@@ -9,7 +9,7 @@ import org.openqa.selenium.support.ui.Select;
 
 import UtilityClasses.BrowserFactory;
 
-public class Assignment3 {
+public class Assignment1 {
 
 	public static void main(String[] args) {
 		
